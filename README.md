@@ -3,7 +3,7 @@
 Windows kurulumu burada.
 
 Kurulum
-sudo apt update -y && sudo apt upgrade -y
+[sudo apt update -y && sudo apt upgrade -y](https://github.com/ruesandora/Kuzco/blob/main/README.md#kurulum)
 Buradan bi hesap oluşturalım.
 
 # kurulum
